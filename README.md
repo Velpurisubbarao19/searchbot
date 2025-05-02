@@ -15,3 +15,4 @@ SearchBot is a warm, emotionally intelligent chatbot interface built with OpenAI
 🔒 Secure OpenAI API integration
 
 
+https://github.com/Velpurisubbarao19/searchbot/edit/main/README.md
